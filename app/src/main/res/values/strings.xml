@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spirala1</string>
+    <string-array name="popis_elementa">
+        <item>Medicinski</item>
+        <item>Kuharski</item>
+        <item>Botanicki</item>
+    </string-array>
+    <string-array name="popis_boja">
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>purple</item>
+        <item>brown</item>
+        <item>green</item>
+    </string-array>
+</resources>
